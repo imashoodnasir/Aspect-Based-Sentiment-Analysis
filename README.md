@@ -136,9 +136,3 @@ All vector assets (SVG/PNG) can be generated via the figure scripts (optional).
 ## License
 
 MIT License (see `LICENSE` if added). For the LLM and encoders, follow their respective licenses.
-
----
-
-## Acknowledgements
-
-Built with Hugging Face Transformers, Sentence-Transformers, PEFT, spaCy, and PyTorch.
